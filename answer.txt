@@ -1,0 +1,13 @@
+(xenial)rj@localhost:~/git1/.git$ ls -al
+total 40
+drwxrwxr-x. 7 rj rj 4096 Oct 18 10:16 .
+drwxrwxr-x. 3 rj rj 4096 Oct 18 10:16 ..
+-rw-rw-r--. 1 rj rj   23 Oct 18 10:16 HEAD
+drwxrwxr-x. 2 rj rj 4096 Oct 18 10:16 branches
+-rw-rw-r--. 1 rj rj   92 Oct 18 10:16 config
+-rw-rw-r--. 1 rj rj   73 Oct 18 10:16 description
+drwxrwxr-x. 2 rj rj 4096 Oct 18 10:16 hooks
+drwxrwxr-x. 2 rj rj 4096 Oct 18 10:16 info
+drwxrwxr-x. 4 rj rj 4096 Oct 18 10:16 objects
+drwxrwxr-x. 4 rj rj 4096 Oct 18 10:16 refs
+
